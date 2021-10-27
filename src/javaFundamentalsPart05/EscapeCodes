@@ -1,0 +1,15 @@
+'\n' = New line
+
+'\r' = Return
+
+'\t' = Tabulator
+
+'\b' = Backspace
+
+'\f' = Formfeed
+
+'\'' = Single quote
+
+'\"' = Double quote
+
+'\\' = Backslash
