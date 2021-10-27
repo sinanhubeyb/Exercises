@@ -1,4 +1,4 @@
-package javaFundementalsPart03;
+package javaFundamentalsPart03;
 
 public class sourceCodeCreating {
     /*
